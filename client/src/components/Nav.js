@@ -15,7 +15,7 @@ const Nav = () => {
       <div class="container flex flex-wrap justify-between items-center mx-auto">
         <a href="https://flowbite.com" class="flex items-center">
           <img
-            src="/docs/images/logo.svg"
+            src="http://www.clker.com/cliparts/7/2/U/b/D/O/blue-sofa-hi.png"
             class="mr-3 h-6 sm:h-9"
             alt="Flowbite Logo"
           />
